@@ -1,0 +1,17 @@
+1. /proc/version
+Linux version 3.2.0-38-generic (buildd@akateko) (gcc version 4.6.3 (Ubuntu/Linaro 4.6.3-1ubuntu5) ) #61-Ubuntu SMP Tue Feb 19 12:18:21 UTC 2013
+
+2. /proc/filesystems
+Yes, my unix system supports the ext3 filesystem.
+
+3. /proc/swaps
+262140 kilobytes
+
+4. /proc/cmdline
+ssh cohensam@eniac.seas.upenn.edu
+
+5. /proc/cmdline
+BOOT_IMAGE=/boot/vmlinuz-3.2.0-38-generic root=UUID=EEC6BC13C6BBDA53 loop=/ubuntu/disks/root.disk ro quiet splash vt.handoff=7
+
+6. /proc/cpuinfo
+800.000 MHz
